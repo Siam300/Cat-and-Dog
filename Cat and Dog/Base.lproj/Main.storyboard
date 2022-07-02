@@ -46,7 +46,7 @@
                                                             <color key="titleColor" red="0.5568627451" green="0.5568627451" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         </state>
                                                         <connections>
-                                                            <action selector="caButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QWw-pD-PUM"/>
+                                                            <action selector="caButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6oc-m1-bzO"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y8w-3W-KId">
@@ -57,7 +57,7 @@
                                                             <color key="titleColor" red="0.5568627451" green="0.5568627451" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         </state>
                                                         <connections>
-                                                            <action selector="dogButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="E6A-ig-TK2"/>
+                                                            <action selector="dogButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ydk-Fg-k2G"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
